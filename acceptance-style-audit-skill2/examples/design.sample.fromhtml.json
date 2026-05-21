@@ -1,0 +1,29 @@
+{
+  "type": "div",
+  "style": {
+    "width": "1200px",
+    "height": "660px",
+    "position": "relative",
+    "background": "white",
+    "overflow": "hidden"
+  },
+  "children": [
+    {
+      "type": "div",
+      "style": {
+        "left": "-12px",
+        "top": "0.50px",
+        "position": "absolute",
+        "text-align": "center",
+        "color": "black",
+        "font-size": "30px",
+        "font-family": "PingFang SC",
+        "font-weight": "400",
+        "line-height": "42px",
+        "letter-spacing": "0.38px",
+        "word-wrap": "break-word"
+      },
+      "text": "有什么我能帮你的吗？"
+    }
+  ]
+}

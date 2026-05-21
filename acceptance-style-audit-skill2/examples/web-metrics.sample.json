@@ -1,0 +1,6 @@
+{
+  "viewport": { "w": 1200, "h": 703, "dpr": 2 },
+  "root": { "x": 296, "y": 56, "width": 888, "height": 531 },
+  "title": { "x": 642, "y": 220, "width": 196, "height": 45 },
+  "chip": { "x": 327, "y": 293, "width": 326, "height": 42 }
+}
